@@ -1,3 +1,15 @@
+---
+codeequipemoa: 1E
+nomequipemoa: teamaja
+nomcode: insafaitleplein
+format:
+guide: http://prodageo.insa-rouen.fr/wiki/pmwiki.php?n=FilRouge.RedigerCdc
+outil:
+date_publication: 23-10-2020
+date_approbation: 23-10-2020
+date_validation: 23-10-2020
+---
+
 # Annexe 1 : Description sommaire des cas d’utilisation
 
 
